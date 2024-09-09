@@ -11,6 +11,3 @@ public class CoreApplication {
 	}
 
 }
-//git test
-//test
-//test33
