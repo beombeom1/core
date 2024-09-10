@@ -11,4 +11,3 @@ public class CoreApplication {
 	}
 
 }
-//깃 내 아이디 테스트
